@@ -1,5 +1,7 @@
 ### Hi there👋 My name is Rafael :)
 
+![Minha capa](https://github.com/rafasl1/rafasl1/blob/master/capa.jpg?raw=true)
+
 I am a junior programmer, currently pursuing a bachelor's degree in Information Systems at the University of São Paulo (USP). I am also a developer at <a href="http://www.sintesejr.com.br/index.html">Síntese Jr</a>.
 <br>
 Currently working with web development 👨🏻‍💻 <br>
