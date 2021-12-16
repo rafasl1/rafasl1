@@ -2,7 +2,7 @@
 
 ![Minha capa](https://github.com/rafasl1/rafasl1/blob/master/capa.jpg?raw=true)
 
-I am a junior programmer, currently pursuing a bachelor's degree in Information Systems at the University of São Paulo (USP). I am also a developer at <a href="http://www.sintesejr.com.br/index.html">Síntese Jr</a> and a Software Engineer Intern at <a href="https://pagseguro.uol.com.br/#rmcl">Pagseguro</a>.
+I am a programmer, pursuing a bachelor's degree in Information Systems at the University of São Paulo (USP). Currently, working as a Systems Engineer Trainee at <a href="https://pagseguro.uol.com.br/#rmcl">Pagseguro</a>, also worked as a developer at <a href="http://www.sintesejr.com.br/index.html">Síntese Jr</a>.
 <br>
 Currently working with web development focused on backend 👨🏻‍💻 <br>
 In my spare time I like to play video games, play bass and draw some stuff<br>
