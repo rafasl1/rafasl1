@@ -1,8 +1,7 @@
 ### Hi there👋 My name is Rafael :)
 
-I am a software engineer focused on backend development, pursuing a bachelor's degree in Information Systems at the University of São Paulo (USP). Currently, working as a Systems Engineer Trainee at <a href="https://pagseguro.uol.com.br/#rmcl">Pagseguro</a>, also worked as a developer at <a href="http://www.sintesejr.com.br/index.html">Síntese Jr</a>.
+I am a software engineer focused on backend development 👨🏻‍💻, pursuing a bachelor's degree in Information Systems at the University of São Paulo (USP). Currently, working as a Systems Engineer Trainee at <a href="https://pagseguro.uol.com.br/#rmcl">Pagseguro</a>, also worked as a developer at <a href="http://www.sintesejr.com.br/index.html">Síntese Jr</a>.
 <br>
-Currently working with web development focused on backend 👨🏻‍💻 <br>
 In my spare time I like to play video games, play bass and draw some stuff<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Silva-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rafael-silva-de-lima-1b0266197/)](https://www.linkedin.com/in/rafael-silva-de-lima-1b0266197/)[![Instagram Badge](https://img.shields.io/badge/-rafasl.exe-blue?style=social&logo=Instagram&link=https://www.instagram.com/rafasl.exe/)](https://www.instagram.com/rafasl.exe/) [![Twitter Badge](http://img.shields.io/badge/-@rafabatatovisk-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/rafabatatovisk)](https://twitter.com/rafabatatovisk) [![Gmail Badge](https://img.shields.io/badge/-rafael.sl@usp.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rafael.sl@usp.br)](mailto:rafael.sl@usp.com)
