@@ -1,8 +1,6 @@
 ### Hi there👋 My name is Rafael :)
 
-![Minha capa](https://github.com/rafasl1/rafasl1/blob/master/capa.jpg?raw=true)
-
-I am a programmer, pursuing a bachelor's degree in Information Systems at the University of São Paulo (USP). Currently, working as a Systems Engineer Trainee at <a href="https://pagseguro.uol.com.br/#rmcl">Pagseguro</a>, also worked as a developer at <a href="http://www.sintesejr.com.br/index.html">Síntese Jr</a>.
+I am a software engineer focused on backend development, pursuing a bachelor's degree in Information Systems at the University of São Paulo (USP). Currently, working as a Systems Engineer Trainee at <a href="https://pagseguro.uol.com.br/#rmcl">Pagseguro</a>, also worked as a developer at <a href="http://www.sintesejr.com.br/index.html">Síntese Jr</a>.
 <br>
 Currently working with web development focused on backend 👨🏻‍💻 <br>
 In my spare time I like to play video games, play bass and draw some stuff<br>
