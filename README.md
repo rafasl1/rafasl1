@@ -10,7 +10,10 @@ In my spare time I like to play video games, play bass and draw some stuff.<br>
 ![JAVA](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=00AEFF"&color=050F2C)
 ![spring](https://img.shields.io/badge/-Spring-informational?style=flat&logo=spring&logoColor=00AEFF"&color=050F2C)
 ![quarkus](https://img.shields.io/badge/-Quarkus-informational?style=flat&logo=quarkus&logoColor=00AEFF"&color=050F2C)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=00AEFF"&color=050F2C)
 ![Oracle](https://img.shields.io/badge/-Oracle-informational?style=flat&logo=oracle&logoColor=00AEFF&color=050F2C)
+![Jenkins](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=00AEFF"&color=050F2C)
+![Splunk](https://img.shields.io/badge/-Splunk-informational?style=flat&logo=splunk&logoColor=00AEFF"&color=050F2C)
 
 ### Technologies I've worked with or studied :
 ![TS](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=00AEFF"&color=050F2C)
