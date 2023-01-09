@@ -8,20 +8,20 @@ In my spare time I like to play video games, play bass and draw some stuff.<br>
 
 ### Technologies I'm currently working with :
 ![JAVA](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=00AEFF"&color=050F2C)
-![quarkus](https://img.shields.io/badge/-quarkus-informational?style=flat&logo=quarkus&logoColor=00AEFF"&color=050F2C)
-![TS](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=00AEFF"&color=050F2C)
-![Node](https://img.shields.io/badge/-Node-informational?style=flat&logo=node.js&logoColor=00AEFF"&color=050F2C)
-![NestJS](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=00AEFF"&color=050F2C)
-![Graphql](https://img.shields.io/badge/-GraphQL-informational?style=flat&logo=graphql&logoColor=00AEFF"&color=050F2C)
+![spring](https://img.shields.io/badge/-Spring-informational?style=flat&logo=spring&logoColor=00AEFF"&color=050F2C)
+![quarkus](https://img.shields.io/badge/-Quarkus-informational?style=flat&logo=quarkus&logoColor=00AEFF"&color=050F2C)
 ![Oracle](https://img.shields.io/badge/-Oracle-informational?style=flat&logo=oracle&logoColor=00AEFF&color=050F2C)
-![Mongo](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=00AEFF&color=050F2C)
 
 ### Technologies I've worked with or studied :
+![TS](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=00AEFF"&color=050F2C)
 ![JS](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=00AEFF"&color=050F2C)
+![Node](https://img.shields.io/badge/-Node-informational?style=flat&logo=node.js&logoColor=00AEFF"&color=050F2C)
+![NestJS](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=00AEFF"&color=050F2C)
+![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=00AEFF"&color=050F2C)
+![Graphql](https://img.shields.io/badge/-GraphQL-informational?style=flat&logo=graphql&logoColor=00AEFF"&color=050F2C)
+</br>
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=00AEFF&color=050F2C)
 ![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=00AEFF"&color=050F2C)
-![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=00AEFF"&color=050F2C)
-![Next](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=00AEFF"&color=050F2C)
 ![HTML5](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=00AEFF"&color=050F2C)
 ![CSS3](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=00AEFF"&color=050F2C)
 ![CPP](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&logoColor=00AEFF"&color=050F2C)
