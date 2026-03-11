@@ -6,21 +6,23 @@ In my spare time I like to play video games, play bass and draw some stuff.<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Silva-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rafael-silva-de-lima-1b0266197/)](https://www.linkedin.com/in/rafael-silva-de-lima-1b0266197/)[![Instagram Badge](https://img.shields.io/badge/-rafasl.exe-blue?style=social&logo=Instagram&link=https://www.instagram.com/rafasl.exe/)](https://www.instagram.com/rafasl.exe/) [![Twitter Badge](http://img.shields.io/badge/-@rafabatatovisk-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/rafabatatovisk)](https://twitter.com/rafabatatovisk) [![Gmail Badge](https://img.shields.io/badge/-rafaellima1100@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rafaellima1100@gmail.com)](mailto:rafaellima1100@gmail.com)
 
 ### Technologies I'm currently working with :
-![JAVA](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=00AEFF"&color=050F2C)
+![java](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=00AEFF"&color=050F2C)
+![clojure](https://img.shields.io/badge/-Clojure-informational?style=flat&logo=clojure&logoColor=00AEFF"&color=050F2C)
 ![spring](https://img.shields.io/badge/-Spring-informational?style=flat&logo=spring&logoColor=00AEFF"&color=050F2C)
-![quarkus](https://img.shields.io/badge/-Quarkus-informational?style=flat&logo=quarkus&logoColor=00AEFF"&color=050F2C)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=00AEFF"&color=050F2C)
-![Oracle](https://img.shields.io/badge/-Oracle-informational?style=flat&logo=oracle&logoColor=00AEFF&color=050F2C)
-![Jenkins](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=00AEFF"&color=050F2C)
-![Splunk](https://img.shields.io/badge/-Splunk-informational?style=flat&logo=splunk&logoColor=00AEFF"&color=050F2C)
+![aws](https://img.shields.io/badge/-Aws-informational?style=flat&logo=aws&logoColor=00AEFF"&color=050F2C)
 
 ### Technologies I've worked with or studied :
+![quarkus](https://img.shields.io/badge/-Quarkus-informational?style=flat&logo=quarkus&logoColor=00AEFF"&color=050F2C)
 ![TS](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=00AEFF"&color=050F2C)
 ![JS](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=00AEFF"&color=050F2C)
 ![Node](https://img.shields.io/badge/-Node-informational?style=flat&logo=node.js&logoColor=00AEFF"&color=050F2C)
 ![NestJS](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=00AEFF"&color=050F2C)
 ![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=00AEFF"&color=050F2C)
 ![Graphql](https://img.shields.io/badge/-GraphQL-informational?style=flat&logo=graphql&logoColor=00AEFF"&color=050F2C)
+![Oracle](https://img.shields.io/badge/-Oracle-informational?style=flat&logo=oracle&logoColor=00AEFF&color=050F2C)
+![Jenkins](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=00AEFF"&color=050F2C)
+![Splunk](https://img.shields.io/badge/-Splunk-informational?style=flat&logo=splunk&logoColor=00AEFF"&color=050F2C)
 </br>
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=00AEFF&color=050F2C)
 ![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=00AEFF"&color=050F2C)
